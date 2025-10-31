@@ -1,8 +1,8 @@
 [
   { "user": "admin", "pass": "122" },
-  { "user": "restzy", "pass": "001" },
-  { "user": "buyer", "pass": "002" },
-  { "user": "buyer", "pass": "0003" },
+  { "user": "buyer", "pass": "001" },
+  { "user": "buyer", "pass": "000" },
+  { "user": "restzy", "pass": "0003" },
   { "user": "ejaa ganteng", "pass": "001" },
   { "user": "bagasz", "pass": "001" }
 ]
